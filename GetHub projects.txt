@@ -17,3 +17,7 @@ https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera
 https://github.com/guraybaydur/Real-Estate-House-Price-Predictor
 
 - I am looking to buy a house in about a year and a half so this will give me a great tool to monitor the best time to buy.
+
+https://github.com/gotgenes/getignore
+
+- This is one that was asked to be added into the projects 
